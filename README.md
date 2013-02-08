@@ -1,3 +1,7 @@
+TCBuilder
+=========
+
+Test Case Builder
 ----
 [general description]
 TCBuilder is a python-based (with some javascript help) web application, intended to easily create test scenarios and steps for a standard software QA test case.
