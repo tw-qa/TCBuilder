@@ -2,6 +2,18 @@
 [general description]
 TCBuilder is a python-based (with some javascript help) web application, intended to easily create test scenarios and steps for a standard software QA test case.
 
+Input:
+- scenarios/steps
+- reordering scenarios/steps
+
+Output:
+- visual table
+- jira/wiki markup
+
+Physical layout:
+- HTML tables of scenarios/steps
+- multiline textbox for jira/wiki markup
+
 ----
 [objects used]
 - Test Case, collection of Scenarios
@@ -20,3 +32,7 @@ allScenarios[0]["steps"].append({"step_desc":"first step description", "results"
 allScenarios[0]["steps"].append({"notes": "some other notes", "results": "second results", "step_desc": "second step"})
 
 ----
+[features]
+- bulk import of scenario names
+- import of jira/wiki format
+- conversion of jira/wiki to TCBuilder
