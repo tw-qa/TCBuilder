@@ -1,0 +1,137 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="789" measuredH="562" mockupW="755" mockupH="551">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="34" y="51" w="755" h="216" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="41" y="66" w="-1" h="-1" measuredW="173" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Edit%20-%20Unlock%20configuration</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="47" y="95" w="676" h="155" measuredW="621" measuredH="149" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Step%20%2C%20%20Result%20%20%2C%20Notes%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0ANavigate%20to%20Device%20Browser%2C%20Device%20Browser%5Cris%20displayed%20%0ASelect%20a%20device%20that%20has%20been%5Crfully%20provisioned%20in%20Centcom%0AClick%20Open%20Configuration%20button%20%2C%20Configuration%20window%20is%20displayed%0AClick%20Edit%20button%20%2C%20Configuration%20window%20will%20be%20in%20edit%20mode%5CrEdit%20button%20will%20be%20disabled%2C%20This%20change%20is%5Crnot%20instantaneous%2C%20%0A%7B83L%2C%200R%2C%2035%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="34" y="301" w="755" h="261" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="41" y="316" w="-1" h="-1" measuredW="188" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Edit%20-%20Locked%20configuration%20%20</text>
+        <underline>true</underline>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::DataGrid" x="47" y="346" w="666" h="196" measuredW="604" measuredH="215" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Step%20%2C%20Result%20%20%2C%20Notes%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0AThis%20scenario%20requires%3A%5Crmultiple%20sessions%20%28A%20and%20B%29%5Cra%20privileged%20user%2C%20%20%0ASession%20A%3A%20Follow%20the%20directions%20above%5Crin%20%22Edit%20-%20Unlocked%20configuration%22%20%2C%20Device%20configuration%20will%20be%5Crin%20a%20locked%20state%20%0ASession%20B%3A%20Follow%20the%20directions%20above%5Crusing%20the%20same%20device%20record%20%20%2C%20Confirmation%20dialog%20requesting%20user%5Crto%20unlock%20configuration%5Cris%20displayed%20%0AClick%20Yes%20%2C%20Configuration%20window%20will%20be%20in%20edit%20mode%5CrEdit%20button%20will%20be%20disabled%2C%20%0ARepeat%20the%20steps%20in%20this%20scenarios%5Crand%20click%20No%20to%20the%20confirmation%20dialog%20%2C%20Configuration%20will%20not%20be%20editable%5CrEdit%20button%20will%20be%20enabled%0A%7B80L%2C%200R%2C%2035%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="34" y="11" w="-1" h="-1" measuredW="104" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>New%20Scenario</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::RoundButton" x="664" y="123" w="21" h="19" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RoundButton" x="685" y="123" w="21" h="19" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::RoundButton" x="664" y="150" w="21" h="19" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::RoundButton" x="685" y="150" w="21" h="19" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::RoundButton" x="664" y="184" w="21" h="19" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::RoundButton" x="685" y="184" w="21" h="19" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::RoundButton" x="664" y="218" w="21" h="19" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::RoundButton" x="685" y="218" w="21" h="19" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::RoundButton" x="726" y="95" w="21" h="19" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::RoundButton" x="747" y="95" w="21" h="19" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::RoundButton" x="721" y="348" w="21" h="19" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::RoundButton" x="742" y="348" w="21" h="19" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::RoundButton" x="653" y="382" w="21" h="19" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::RoundButton" x="674" y="382" w="21" h="19" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::RoundButton" x="653" y="422" w="21" h="19" measuredW="32" measuredH="32" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::RoundButton" x="674" y="422" w="21" h="19" measuredW="32" measuredH="32" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::RoundButton" x="653" y="463" w="21" h="19" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::RoundButton" x="674" y="463" w="21" h="19" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::RoundButton" x="653" y="504" w="21" h="19" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::RoundButton" x="674" y="504" w="21" h="19" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
