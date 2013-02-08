@@ -1,0 +1,6 @@
+----
+allScenarios = []
+allScenarios.append({"scen_desc":"first scenario", "steps":[]})
+allScenarios[0]["steps"].append({"step_desc":"first step description", "results":"first results", "notes":"any notes"})
+allScenarios[0]["steps"].append({"notes": "some other notes", "results": "second results", "step_desc": "second step"})
+
