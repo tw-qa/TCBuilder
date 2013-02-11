@@ -1,16 +1,37 @@
 <html>
-    <head>
-        <link type="text/css" rel="stylesheet" href="/assets/tcbuilder.css" />
-    </head>
-    <body>
-        <div>
-            <p>Scenarios</p>
+<head>
+<link type="text/css" rel="stylesheet" href="/assets/tcbuilder.css" />
+<script type="text/javascript" src="/assets/tcbuilder-helper.js"></script>
+</head>
+<body>
+    <!--<a href='#' onclick='overlay()'>open dialog</a>-->
+    <form method="post">
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+        <!-- Begin Left Column -->
+        <div id="leftcolumn">
+            <p>Test Case Scenarios</p>
+            <input type="submit" name="new_scenario" value="New Scenario">
+            <input type="submit" name="convert2markup" value="convert to markup >>">
             {{ strScenarioHTML }}
         </div>
-        <hr>
-        <div>
+        <!-- End Left Column -->
+
+        <!-- Begin Right Column -->
+        <div id="rightcolumn">
             <p>Jira/Wiki Markup</p>
-            <textarea name="markup" rows="3" cols="60">{{ strMarkup }}</textarea>
+            <input type="submit" name="convert2tables" value="<< convert from markup">
+            <textarea name="markup" id="round_corner" rows="20" cols="60">{{ strMarkup }}</textarea>   
         </div>
-    </body>
-</html>
+        <!-- End Right Column -->
+    </div>
+    <!-- End Wrapper -->
+
+    <div id="overlay">
+     <div>
+          <p>dialog text</p>
+          <a href='#' onclick='overlay()'>Close</a>
+     </div>
+    </form>
+</div>
+</body>
