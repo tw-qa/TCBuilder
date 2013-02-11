@@ -3,11 +3,11 @@
     <control controlID="62" controlTypeID="__group__" x="37" y="135" w="755" h="504" measuredW="755" measuredH="504" zOrder="1" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="27" w="755" h="216" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="62"/>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="7" y="42" w="-1" h="-1" measuredW="173" measuredH="22" zOrder="1" locked="false" isInGroup="62">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="7" y="42" w="-1" h="-1" measuredW="190" measuredH="22" zOrder="1" locked="false" isInGroup="62">
           <controlProperties>
             <bold>true</bold>
             <size>14</size>
-            <text>Edit%20-%20Unlock%20configuration</text>
+            <text>Edit%20-%20Unlocked%20configuration</text>
             <underline>true</underline>
           </controlProperties>
         </control>
@@ -156,6 +156,11 @@
     <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="807" y="135" w="-1" h="-1" measuredW="163" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%3C%3C%20convert%20from%20markup</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Button" x="143" y="135" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>convert%20to%20markup%20%3E%3E</text>
       </controlProperties>
     </control>
   </controls>
