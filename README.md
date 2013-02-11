@@ -28,6 +28,17 @@ Physical layout:
 	- notes
 
 ----
+[Actions]
+- add scenario
+- change scenario title
+- add step
+- change step data
+- reorder scenarios (backlog)
+- reorder steps (backlog)
+- convert TO markup
+- convert FROM markup (backlog)
+
+----
 [example data structure layout for app]
 
 allScenarios = []
